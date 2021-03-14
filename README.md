@@ -1,7 +1,8 @@
-cryptoinv
+cryptoinv (DO NOT USE - In Development)
 =========
 
 Spring REST application for handling bitcoin transactions.
+NOTE: Do not use: This is not a working version as the WalletEventListener was not working as expected.
 
 Purpose
 -------
